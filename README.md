@@ -2,7 +2,7 @@
 
 the first step to getting it running is to clone the repo
 
-ex: `git clone `
+ex: `git clone https://github.com/AdrianG0954/cse2102-Lab5.git `
 
 once you have cloned the repo you can change your directory to the one of the project
 
