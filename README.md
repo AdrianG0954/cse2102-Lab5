@@ -14,6 +14,10 @@ we need to set the java_home variable as follows
 
 `JAVA_HOME="/usr/"` then `export JAVA_HOME` and finally we can build using `./mvnw package`
 
+if you are getting a permission denied error you can solve this by running the following command
+
+`chmod +x mvnw`
+
 now we can run tests if necessary using `./mvnw test` and we can run it using 
 
 `./mvnw spring-boot:run`
