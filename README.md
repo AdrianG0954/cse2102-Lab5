@@ -22,4 +22,4 @@ now we can run tests if necessary using `./mvnw test` and we can run it using
 
 `./mvnw spring-boot:run`
 
-after it will show you a popup to open in browser and then the quiz will display
+after it will show you a popup to open in browser and then the quiz will display a popup in the bottom right and after clicking you can run the quiz as normal.
