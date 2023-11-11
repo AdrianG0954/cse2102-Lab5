@@ -1,0 +1,8 @@
+Link to Doc with Extra Lab Info: https://docs.google.com/document/d/1oOlnE48FrTHS6GpRPOaqLLWuoFJngyKuWtrqX-WnuOY/edit?usp=sharing
+--
+How to run the code:
+1. Clone the repo using git clone
+2. Run mvnw build with all updated dependencies
+3. Run ./mvnw spring-boot:run and open the link to your VM/proxy/8093/ to access the home directory
+--
+Description of how three pieces of code work together: Three essential components collaborate in this system: the HTML files located within the /templates directory, the "demo/src/test/java/com/example/demo/HomeControllerTest.java" file, and the HomeController.java file. These components function cohesively, communicating to create a seamless user experience. The HomeController.java file plays a pivotal role by initializing various web pages from the front end. In parallel, the HTML files work in tandem to render the required text and messages on the screen. Meanwhile, the HomeControllerTest.java file acts as a guardian, conducting tests to ensure that the HomeController.java file remains functional and facilitates a smooth operation.
